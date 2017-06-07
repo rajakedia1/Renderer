@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vertex
+comment1.params=
+comment1.target=float\ GetX()
+comment2.params=
+comment2.target=float\ GetY()
+comment3.params=x
+comment3.target=void\ SetX(float)
+comment4.params=y
+comment4.target=void\ SetY(float)
+comment5.params=x\ y
+comment5.target=Vertex(float,\ float)
+numComments=6
