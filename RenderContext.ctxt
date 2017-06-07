@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RenderContext
+comment1.params=width\ height
+comment1.target=RenderContext(int,\ int)
+comment2.params=yCoord\ xMin\ xMax
+comment2.target=void\ DrawScanBuffer(int,\ int,\ int)
+comment3.params=yMin\ yMax
+comment3.target=void\ FillShape(int,\ int)
+comment4.params=minYVert\ midYVert\ maxYVert\ handedness
+comment4.target=void\ ScanConvertTriangle(Vertex,\ Vertex,\ Vertex,\ int)
+comment5.params=minYVert\ maxYVert\ whichSide
+comment5.target=void\ ScanConvertLine(Vertex,\ Vertex,\ int)
+numComments=6
