@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bitmap
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bitmap\ here.\r\n\r\n\ @author\ (Raja\ Kedia)\r\n\ @version\ (1)\r\n
+comment1.params=width\ height
+comment1.target=Bitmap(int,\ int)
+comment2.params=shade
+comment2.target=void\ Clear(byte)
+comment3.params=x\ y\ a\ b\ g\ r
+comment3.target=void\ DrawPixel(int,\ int,\ byte,\ byte,\ byte,\ byte)
+comment4.params=dest
+comment4.target=void\ CopyToByteArray(byte[])
+comment5.params=
+comment5.target=int\ GetWidth()
+comment6.params=
+comment6.target=int\ GetHeight()
+numComments=7
